@@ -24,10 +24,11 @@ Tự động nhắn tin tới list UID với nội dung chỉ định
 
 ## Features
 Dưới đây là các tính năng dự kiến sẽ phát triển:
-- Hẹn giờ gửi tin nhắn
-- Thêm/ Xóa tài khoản trong danh sách nhận tin
-- Gửi tin nhắn kèm theo tên người dùng
-- Tự động chúc mừng sinh nhật
+[x] Tự động gửi tin nhắn
+[] Hẹn giờ gửi tin nhắn
+[] Thêm/ Xóa tài khoản trong danh sách nhận tin
+[] Gửi tin nhắn kèm theo tên người dùng
+[] Tự động chúc mừng sinh nhật
 
 ## Bugs
 - Vui lòng report tại đây
